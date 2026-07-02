@@ -14,7 +14,7 @@ This project demonstrates practical skills in **Data Cleaning, Data Modeling, DA
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshots/dashboard-preview.png)
+![Dashboard Preview](https://github.com/analyst-arbaz/Madhav_Ecommerce_Sales_Dashboard/blob/7a9a60a84c414f95bf40862a5e26df501d22a212/Power%20bi.png)
 
 ---
 
